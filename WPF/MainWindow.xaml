@@ -21,7 +21,7 @@
                 <RowDefinition Height="1*"/>
                 <RowDefinition Height="5*"/>
             </Grid.RowDefinitions>
-            <Button Grid.Row="0" Content="OK"></Button>
+            <Button Grid.Row="0" Content="This is the place where you start your beautiful UI for Windows desktop."></Button>
             <ProgressBar x:Name="ui_loading_progress" Grid.Row="1" Orientation="Horizontal"  Height="10"  IsIndeterminate="True" Margin="50,0,50,0" />
         </Grid>
     </Grid>
